@@ -1,4 +1,4 @@
-//Based on the name of the person, return their relationship to luke
+#Based on the name of the person, return their relationship to luke
 def relation_to_luke(name):
 	solutions = {'Leia':'sister',
 	'Darth Vader':'father',
