@@ -2,5 +2,4 @@
 #Given a non-negative integer num, implement a function that returns True if num is a Curzon number, or False otherwise.
 
 def is_curzon(num):
-
   return (2**num + 1) % (2*num + 1) == 0
